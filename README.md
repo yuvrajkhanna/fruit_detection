@@ -2,6 +2,14 @@
 
 **amdegroot has written all the code I have just made some changes to work with fruit detection. check out his github!!**
 
+# How to use :
+
+0.download dataset and weights from my drive !! (link given)
+1. go to data folder then open voc0712.py then change the path of VOC_ROOT to the location of your dataset.</br>
+2.create weights folder then add fruit35000.pth which u download from my drive.</br>
+3.also if u want to train I have chose defaut iter to be 20000 correct that by putting it on 0.<br/>
+4.In resume argument weights/fruit20000.pth is given if you have downloaded my weights then change it to weights/fruit35000.pth<br/>
+
 A [PyTorch](http://pytorch.org/) implementation of [Single Shot MultiBox Detector](http://arxiv.org/abs/1512.02325) from the 2016 paper by Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang, and Alexander C. Berg.  The official and original Caffe code can be found [here](https://github.com/weiliu89/caffe/tree/ssd).
 
 
