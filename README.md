@@ -97,7 +97,7 @@ python eval.py
 You can specify the parameters listed in the `eval.py` file by flagging them or manually changing them.  
 
 
-<img align="left" src= "https://github.com/yuvrajkhanna/ssd.pytorch/fruit_recognition/doc/detection_examplemix.png">
+<img align="left" src= "https://github.com/yuvrajkhanna/fruit_recognition/doc/detection_examplemix.png">
 
 ## Performance
 
