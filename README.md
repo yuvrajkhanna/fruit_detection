@@ -4,7 +4,7 @@
 
 # How to use :
 
-0.download dataset and weights from my drive !! (link given)
+0.download dataset and weights from my drive !! (link: https://drive.google.com/open?id=1-vyAr6nWp5x2dHmhAq09Mc1zJ6f-VKKv)
 1. go to data folder then open voc0712.py then change the path of VOC_ROOT to the location of your dataset.</br>
 2.create weights folder then add fruit35000.pth which u download from my drive.</br>
 3.also if u want to train I have chose defaut iter to be 20000 correct that by putting it on 0.<br/>
