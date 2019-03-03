@@ -1,4 +1,7 @@
 # SSD: Single Shot MultiBox Object Detector, in PyTorch
+
+**amdegroot has written all the code I have just made some changes to work with fruit detection. check out his github!!**
+
 A [PyTorch](http://pytorch.org/) implementation of [Single Shot MultiBox Detector](http://arxiv.org/abs/1512.02325) from the 2016 paper by Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang, and Alexander C. Berg.  The official and original Caffe code can be found [here](https://github.com/weiliu89/caffe/tree/ssd).
 
 
@@ -94,7 +97,7 @@ python eval.py
 You can specify the parameters listed in the `eval.py` file by flagging them or manually changing them.  
 
 
-<img align="left" src= "https://github.com/amdegroot/ssd.pytorch/blob/master/doc/detection_examples.png">
+<img align="left" src= "https://github.com/yuvrajkhanna/ssd.pytorch/fruit_recognition/doc/detection_examples.png">
 
 ## Performance
 
